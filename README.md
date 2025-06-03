@@ -18,7 +18,7 @@ A simple yet practical Todo management project built using **ASP.NET Core 8 Mini
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/your-username/minimalApi.git
+   git clone https://github.com/hosseinmolaeibackend/minimalApi.git
 2. Navigate into the project directory:
 ```bash
 cd minimalApi/minimalApi 
